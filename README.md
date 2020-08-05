@@ -9,8 +9,8 @@
 - [ ] Mobile
 
 ### Linguagens Utilizadas
-- TypeScript[link here](https://www.typescriptlang.org)
-- NodeJS[link here](https://nodejs.org/en/)
+- TypeScript [link here](https://www.typescriptlang.org)
+- NodeJS [link here](https://nodejs.org/en/)
 
 ### Libraries
 - React JS [link here](https://pt-br.reactjs.org)
